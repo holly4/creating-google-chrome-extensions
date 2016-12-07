@@ -8,7 +8,7 @@
 		"default_icon" : "icon-1.png"
 	},
 	"background" : {
-		"scripts" : ["event_script.js","another_event_script.js"],
+		"scripts" : ["event_script.js"],
 		"persistent" : false
 	},
 	"commands" : {
